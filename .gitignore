@@ -1,0 +1,13 @@
+*.json
+.DS_Store
+.DS_Store?
+
+.Spotlight-V100
+.Trashes
+led / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+thumbs.db
+Thumbs.db
+
